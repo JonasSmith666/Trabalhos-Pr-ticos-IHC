@@ -19,3 +19,14 @@ Aqui serão apresentado os resultados da Inspeção
 ![](https://adimax.com.br/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg)
 
 <img src="https://adimax.com.br/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg" alt= "Exemplo de Imagem" width= "400">
+
+### Negrito e Itálico
+
+**Negrito**
+_Itálico_
+
+## Tabelas
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+| Linha 1, C1 | Linha 1, C2 |
+| Linha 2, C1 | Linha 2, C2 |
