@@ -16,4 +16,6 @@ Aqui serão apresentado os resultados da Inspeção
 3. Item 3
 
 ### Figuras
-![](https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png)
+![](https://adimax.com.br/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg)
+
+<img src="https://adimax.com.br/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg" alt= "Exemplo de Imagem" width= "400">
